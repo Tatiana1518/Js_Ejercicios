@@ -258,7 +258,7 @@ if (!isNaN(numero1) && !isNaN(numero2)) {
 }*/
 
 /*Ejercicio 12 
-Realizar un calculadora con las operaciones basicas
+Realizar un calculadora con las operaciones basicas*/
 
 // Función para sumar dos números
 function sumar(numero1, numero2) {
@@ -313,4 +313,4 @@ function calcular() {
 }
 
 // Llama a la función principal para iniciar la calculadora
-calcular();*/
+calcular();
